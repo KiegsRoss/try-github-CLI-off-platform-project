@@ -1,3 +1,5 @@
+import random
+#this was forgotten
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
